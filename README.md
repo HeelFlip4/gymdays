@@ -7,7 +7,6 @@ Este projeto consiste em uma página web simples desenvolvida apenas com **HTML*
 A página está disponível via GitHub Pages no seguinte link:  
 👉 [Acessar Treino Diário](https://heelflip4.github.io/gymdays/)
 
-> Substitua `seu-usuario` e `nome-do-repositorio` conforme o seu repositório real.
 
 ## 📌 Funcionalidades
 
